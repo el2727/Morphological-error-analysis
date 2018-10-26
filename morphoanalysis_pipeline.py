@@ -2,7 +2,7 @@
 
 """Data import and pre-processing for alignment"""
 
-"""Read in the content of the file with hypo results"""
+"""Read in the content of the text file with hypo results "finnish-high-out""""
 
 content = [i.strip('\n').split('\t') for i in open('finnish-high-out')] 
 
@@ -14,7 +14,7 @@ lemmas = [i[0] for i in content]
 
 hypo = [i[1] for i in content]
 
-"""Read in the ground truth data from the text file"""
+"""Read in the ground truth data from the text file "finnish-uncovered-test""""
 
 content_ground_truth = [i.strip('\n').split('\t') for i in open('finnish-uncovered-test')]
 
