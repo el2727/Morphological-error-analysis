@@ -1,9 +1,7 @@
-﻿Navajo case study, error analysis: 
+Navajo case study, error analysis: 
 From Reichard, 1951:
 
-
 * “Speakers often fail to distinguish dual and plural, using the same forms for both.”
-
 
 We have the exact same case with the model output:
 
@@ -25,8 +23,6 @@ Stem errors
 
 Error types in prefixes:
 
-
-Er
 Prefix errors (lemma/hypothesis - lemma/gold)
 y-i-l-ní          da-ji-l-ní                 V;REAL;PFV/PRF;4;PL
 y-i-l-ní[a]                 da-bi-ji-ní[b]        V;REAL;PFV/PRF;4;PL
