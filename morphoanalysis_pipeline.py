@@ -42,7 +42,7 @@ zipped_hypo = list(zip(index_list, hypo))
 
 results_list = []
 for i in error_list:
-    for w in zipped:
+    for w in zipped_hypo:
         for y, x in [w]:
             if i == x:
                 results_list.append(w)
