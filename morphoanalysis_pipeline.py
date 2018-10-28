@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-"""Data import and extraction of lemmas, gold, hypo and target output tags for alignment"""
+"""Data import and extraction of lemmas, gold, hypo and target output tags for alignment""" 
 
 def get_lemmas_hypo_tags(file):
     content = [i.strip('\n').split('\t') for i in open(file)] 
