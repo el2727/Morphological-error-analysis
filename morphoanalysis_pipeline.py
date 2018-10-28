@@ -212,6 +212,9 @@ assert not codes.suffix
 
 """Do we loop over results here?"""
 
-for a, b, c in lemma_gold_hypo_list:
+for a, b, c, d in lemma_gold_hypo_tags_list:
     gold_segmented = segment(a, edit, b)
     codes = errors(gold_segmented, edit, c)
+    error_types = [bool(i) for i in codes]
+
+len(error_types)
