@@ -36,7 +36,7 @@ def get_indexed_results(error_list, zipped_hypo, zipped_lemmas, zipped_gold, zip
             for y, x in [w]:
                 if i == x:
                     results_list.append(w)
-    lemmas_results_list = []
+    lemmas_results_list = [] 
     gold_results_list = []
     tags_results_list = []
     for i in results_list:
