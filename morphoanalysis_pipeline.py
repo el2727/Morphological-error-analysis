@@ -14,6 +14,11 @@ lemmas = [i[0] for i in content]
 
 hypo = [i[1] for i in content]
 
+"""Extract target output tags"""
+
+tags = [i[2] for i in content]
+
+
 """Read in the ground truth data from the text file "finnish-uncovered-test""""
 
 content_ground_truth = [i.strip('\n').split('\t') for i in open('finnish-uncovered-test')]
@@ -47,7 +52,7 @@ for i in error_list:
             if i == x:
                 results_list.append(w)
 
-"""Do the same for lemmas and gold"""
+"""Do the same for lemmas, gold and target output tags"""
 
 lemmas_zipped = list(zip(index_list, lemmas))
 
@@ -64,12 +69,21 @@ for i in results_list:
     for y in zipped_gold:
         if i[0] == y[0]:
             gold_results_list.append(y[1])
+
+zipped_tags = list(zip(index_list, tags))
+
+tags_results_list = []
+for i in results_list:
+    for y in zipped_tags:
+        if i[0] == y[0]:
+            tags_results_list.append(y[1])
+
             
-"""Finally, create a list of tuples with lemma, gold and hypo forms"""
+"""Finally, create a list of tuples with lemma, gold, hypo forms and target output tags"""
 
-lemma_gold_hypo_list = list(zip(lemmas_results_list, gold_results_list, error_list))
+lemma_gold_hypo_tags_list = list(zip(lemmas_results_list, gold_results_list, error_list, tags_results_list))
 
-print(lemma_gold_hypo_list)
+print(lemma_gold_hypo_tags_list)
 
 # Sample output for Finnish:
 #[('gallup', 'gallupeilta', 'galluvilta'), ('loiskunta', 'loiskunnoissa', 'loiskunnissa'), ("oi'istua", "en oi'istune", 'en oiisistune'), ('polymeeri', 'polymeereilta', 'polymeereiltä'), ('judoka', 'judokoissa', 'judokissa'), ('rasagiliini', 'rasagiliineina', 'rasagiliineinä'), ('harveta', 'harvenisimme', 'harpeaisimme'), ('jousiammunta', 'jousiammuntoineen', 'jousiammuntineen'), ('tähtisampi', 'tähtisammelta', 'tähtisammalta'), ('manuskripti', 'manuskriptilla', 'manuskripilla'), ('löpö', 'löpöksi', 'lövöksi'), ('ylhä', 'ylhineen', 'ylhine'), ('hyeena', 'hyeenoiden', 'hyeenojen'), ('poliisiauto', 'poliisiautotta', 'poliisiaudotta'), ('karata', 'eivät karkaisi', 'eivät karaisi'), ('myllätä', 'mylläsit', 'mylläit'), ('kodkod', 'kodkodein', 'kodkoin'), ('ydinkärki', 'ydinkärkenä', 'ydinkärkinä'), ('puoluesihteeri', 'puoluesihteereita', 'puoluesihteereitä'), ('rautatammi', 'rautatammitta', 'rautatammeitta'), ('viidesneljättä', 'viidennenneljättä', 'viidensienneljän'), ('betoniteräs', 'betoniteräkset', 'betoniteräät'), ('riipunta', 'riipuntoina', 'riipuntina'), ('iskias', 'iskiakseen', 'iskiaaseen'), ('pursi', 'purreksi', 'pursiksi'), ('antaa ylen', 'antaisin ylen', 'antaisin'), ('automaattiovi', 'automaattiovea', 'automaattiovia'), ('antaa opetus', 'antaisivat', 'antaisip opeus'), ('jokivene', 'jokiveneeltä', 'jokiveneelta'), ('csrds', 'csárdáseitta', 'csrdreksittä'), ('C-levysoitin', 'CD-levysoitinta', 'CC-levysoitinta'), ('progestiini', 'progestiinitta', 'progestiinittä'), ('sijaisperhe', 'sijaisperheeltä', 'sijaisperheelta'), ('krupieeri', 'krupieereja', 'krupieerejä'), ('nylkeä', 'emme nylkisi', 'emme nylkeisi'), ('neitokurki', 'neitokurjissa', 'neitokureissa'), ('nähdä punaista', 'näkisit punaista', 'nähnät punaisisit'), ('saada selkäänsä', 'emme saisi', 'emme saate selkääräs'), ('psyka', 'psykaksi', 'psyvaksi'), ('jakaa', 'lienee jaettu', 'lienee jajettu'), ('puolapuut', 'puolapuina', 'puolapuinina'), ('nuori', 'nuorella', 'nuorilla'), ('puhallusputki', 'puhallusputkissa', 'puhallusputkeissa'), ('lapinsirri', 'lapinsirriä', 'lapinsirria'), ('ekstrusiivinen', 'ekstrusiivisetta', 'ekstrusiivisettä'), ('shikoku', 'shikokuista', 'shikouista'), ('pehmyt', 'pehmyisiin', 'pehmiin'), ('valjeta', 'valkenit', 'valjenit'), ('kaukopiste', 'kaukopisteissä', 'kaukopisteissa')]
