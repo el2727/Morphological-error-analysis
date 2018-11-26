@@ -60,10 +60,18 @@ def main():
     error_list = get_errors(hypo, gold)
     zipped_hypo, zipped_lemmas, zipped_gold, zipped_tags = index_items(hypo, lemmas, gold, tags)
     lemma_gold_hypo_tags_list = get_indexed_results(error_list, zipped_hypo, zipped_lemmas, zipped_gold, zipped_tags)
-    print(lemma_gold_hypo_tags_list)
+    columns = ['lemma', 'gold', 'hypo', 'target tag']
+    with open('lithuanian_output.tsv', 'w', newline = '') as file:
+        output = csv.writer(file, delimiter = '\t')
+        output.writerow(columns)
+        for lemma, gold, hypo, tags in lemma_gold_hypo_tags_list:
+            output.writerow([lemma, gold, hypo, tags])
     
 if __name__ == '__main__':
     main()
+
+# Reference link: https://stackoverflow.com/questions/29895602/how-to-save-output-from-python-like-tsv
+# Reference link: https://stackoverflow.com/questions/49118619/outputting-a-list-to-a-tsv-file-in-python
 
 """Three-way alignment for morphological error analysis.
 DESCRIPTION TO FOLLOW."""
