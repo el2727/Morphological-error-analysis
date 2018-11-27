@@ -61,11 +61,9 @@ def main():
     zipped_hypo, zipped_lemmas, zipped_gold, zipped_tags = index_items(hypo, lemmas, gold, tags)
     lemma_gold_hypo_tags_list = get_indexed_results(error_list, zipped_hypo, zipped_lemmas, zipped_gold, zipped_tags)
     columns = ['lemma', 'gold', 'hypo', 'target tag']
-    with open('lithuanian_output.tsv', 'w', newline = '') as file:
-        output = csv.writer(file, delimiter = '\t')
-        output.writerow(columns)
-        for lemma, gold, hypo, tags in lemma_gold_hypo_tags_list:
-            output.writerow([lemma, gold, hypo, tags])
+    dataframe = pandas.DataFrame(data = lemma_gold_hypo_tags_list, columns=['lemma', 'gold', 'hypo', 'target tag'])
+    sorted_dataframe = dataframe.sort_values(['target tag'])
+    sorted_dataframe.to_csv('finnish_output.tsv', sep='\t')
     
 if __name__ == '__main__':
     main()
