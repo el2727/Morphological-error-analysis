@@ -1,71 +1,71 @@
-lemma	gold	hypo	target tag
-Bindfäden regnen	regnest Bindfäden	regese Bindfäden	V;SBJV;PRS;2;SG
-Datei	Dateien	Dateis	N;NOM;PL
-Fußballweltmeisterschaftsqualifikationsspiel	Fußballweltmeisterschaftsqualifikationsspiele	Fußballweltmeisterschafikationshpeilen	N;GEN;PL
-Flageolett	Flageoletts	Flageolettes	N;GEN;SG
-Schwungrad	Schwungräder	Schwungrade	N;GEN;PL
-Brillenetui	Brillenetuis	Brillenetui	N;GEN;SG
-WC	WCs	WCse	N;NOM;PL
-durchsetzen	durchgesetzt	durchsetzt	V.PTCP;PST
-Energiezustand	Energiezustände	Energiezustande	N;NOM;PL
-versenken	versenkten	versächten	V;SBJV;PST;3;PL
-weglegen	weggelegt	geweglegt	V.PTCP;PST
-Gedankenwelt	Gedankenwelt	Gedankenweltes	N;GEN;SG
-Sozialdemokrat	Sozialdemokraten	Sozialdemokrat	N;DAT;SG
-Königsgelb	Königsgelbs	Königsgelbe	N;ACC;PL
-Gelbbleierz	Gelbbleierz	Gelbbleierze	N;GEN;PL
-Aussenwand	Aussenwand	Aussenwandes	N;GEN;SG
-Schneiderlein	Schneiderlein	Schneiderleine	N;NOM;PL
-ebnen	ebneten	ebnten	V;IND;PST;3;PL
-Funke	Funken	Funke	N;ACC;SG
-Katholik	Katholiken	Katholike	N;NOM;PL
-Hartung	Hartunge	Hartungen	N;GEN;PL
-beheimaten	beheimatte	beheimatete	V;IND;PST;3;SG
-Eosin	Eosine	Eosinnen	N;ACC;PL
-Dachschaden	Dachschäden	Dachschaden	N;GEN;PL
-Form	Formen	Förmer	N;ACC;PL
-Aasvogel	Aasvögel	Aasvogel	N;NOM;PL
-Tibetfuchs	Tibetfüchse	Tibetfuchse	N;NOM;PL
-Hang	Hänge	Hange	N;NOM;PL
-Genitiv	Genitivs	Genitives	N;GEN;SG
-Darmausgang	Darmausganges	Darmausgangs	N;GEN;SG
-Metallatom	Metallatome	Metallatomen	N;GEN;PL
-Albatros	Albatrossen	Albatrosen	N;DAT;PL
-Hyperoxid	Hyperoxids	Hyperoxides	N;GEN;SG
-einigen	geeinigt	einigt	V.PTCP;PST
-Chasar	Chasaren	Chasar	N;DAT;SG
-Neuwahl	Neuwahlen	Neuwähle	N;NOM;PL
-Reaktorbau	Reaktorbauten	Reaktorbaue	N;GEN;PL
-Einwohnerzahl	Einwohnerzahlen	Einwohnerzähle	N;ACC;PL
-Abonnement	Abonnements	Abonnemente	N;NOM;PL
-Wasserstoffoxid	Wasserstoffoxides	Wasserstoffoxids	N;GEN;SG
-Schade	Schaden	Schade	N;DAT;SG
-Karbonatit	Karbonatite	Karbonatiten	N;NOM;PL
-umgeben	umgab	umgebte	V;IND;PST;1;SG
-saufen	soff	saufte	V;IND;PST;1;SG
-Rind	Rinder	Rinde	N;ACC;PL
-Prinzess	Prinzessen	Prinzesse	N;ACC;PL
-Hauptgruppennachbar	Hauptgruppennachbarn	Hauptgruppennachbar	N;ACC;SG
-meiden	miedest	meidetest	V;IND;PST;2;SG
-schneiden	schnittest	schniedest	V;IND;PST;2;SG
-Burggraf	Burggrafen	Burggraf	N;DAT;SG
-Spross	Sprosse	Sprösse	N;NOM;PL
-Stiefvater	Stiefväter	Stiefvater	N;ACC;PL
-verschließen	verschließt	verschließst	V;IND;PRS;2;SG
-Sittich	Sittichs	Sittiches	N;GEN;SG
-verdecken	verdecket	verdeckt	V;IND;PRS;3;SG
-babysitten	gebabysittet	gebabittet	V.PTCP;PST
-umkehren	kehre um	umkehre	V;IND;PRS;1;SG
-Vorjahr	Vorjahre	Vorjahren	N;ACC;PL
-Vertrag	Verträge	Vertrage	N;NOM;PL
-schwören	schwört	schwörd	V;IND;PRS;2;PL
-staubsaugen	gestaubsaugt	staubsaugt	V.PTCP;PST
-Augenarzt	Augenärzten	Augenarzten	N;DAT;PL
-Toupet	Toupets	Toupete	N;GEN;PL
-Etat	Etats	Etaten	N;DAT;PL
-Chalkogenidglas	Chalkogenidgläser	Chalkogenidglase	N;NOM;PL
-Brunst	Brünste	Brunste	N;GEN;PL
-Siamese	Siamesen	Siamese	N;GEN;SG
-Monolog	Monologes	Monologs	N;GEN;SG
-Hochparterre	Hochparterres	Hochparterre	N;GEN;SG
-Verlust	Verlust	Verlustes	N;GEN;SG
+	lemma	gold	hypo	target tag
+37	Einwohnerzahl	Einwohnerzahlen	Einwohnerzähle	N;ACC;PL
+24	Form	Formen	Förmer	N;ACC;PL
+22	Eosin	Eosine	Eosinnen	N;ACC;PL
+44	Rind	Rinder	Rinde	N;ACC;PL
+57	Vorjahr	Vorjahre	Vorjahren	N;ACC;PL
+45	Prinzess	Prinzessen	Prinzesse	N;ACC;PL
+51	Stiefvater	Stiefväter	Stiefvater	N;ACC;PL
+13	Königsgelb	Königsgelbs	Königsgelbe	N;ACC;PL
+18	Funke	Funken	Funke	N;ACC;SG
+46	Hauptgruppennachbar	Hauptgruppennachbarn	Hauptgruppennachbar	N;ACC;SG
+31	Albatros	Albatrossen	Albatrosen	N;DAT;PL
+63	Etat	Etats	Etaten	N;DAT;PL
+61	Augenarzt	Augenärzten	Augenarzten	N;DAT;PL
+40	Schade	Schaden	Schade	N;DAT;SG
+34	Chasar	Chasaren	Chasar	N;DAT;SG
+49	Burggraf	Burggrafen	Burggraf	N;DAT;SG
+12	Sozialdemokrat	Sozialdemokraten	Sozialdemokrat	N;DAT;SG
+36	Reaktorbau	Reaktorbauten	Reaktorbaue	N;GEN;PL
+2	Fußballweltmeisterschaftsqualifikationsspiel	Fußballweltmeisterschaftsqualifikationsspiele	Fußballweltmeisterschafikationshpeilen	N;GEN;PL
+14	Gelbbleierz	Gelbbleierz	Gelbbleierze	N;GEN;PL
+4	Schwungrad	Schwungräder	Schwungrade	N;GEN;PL
+30	Metallatom	Metallatome	Metallatomen	N;GEN;PL
+65	Brunst	Brünste	Brunste	N;GEN;PL
+62	Toupet	Toupets	Toupete	N;GEN;PL
+20	Hartung	Hartunge	Hartungen	N;GEN;PL
+23	Dachschaden	Dachschäden	Dachschaden	N;GEN;PL
+66	Siamese	Siamesen	Siamese	N;GEN;SG
+39	Wasserstoffoxid	Wasserstoffoxides	Wasserstoffoxids	N;GEN;SG
+67	Monolog	Monologes	Monologs	N;GEN;SG
+53	Sittich	Sittichs	Sittiches	N;GEN;SG
+68	Hochparterre	Hochparterres	Hochparterre	N;GEN;SG
+32	Hyperoxid	Hyperoxids	Hyperoxides	N;GEN;SG
+69	Verlust	Verlust	Verlustes	N;GEN;SG
+11	Gedankenwelt	Gedankenwelt	Gedankenweltes	N;GEN;SG
+29	Darmausgang	Darmausganges	Darmausgangs	N;GEN;SG
+15	Aussenwand	Aussenwand	Aussenwandes	N;GEN;SG
+3	Flageolett	Flageoletts	Flageolettes	N;GEN;SG
+5	Brillenetui	Brillenetuis	Brillenetui	N;GEN;SG
+28	Genitiv	Genitivs	Genitives	N;GEN;SG
+38	Abonnement	Abonnements	Abonnemente	N;NOM;PL
+8	Energiezustand	Energiezustände	Energiezustande	N;NOM;PL
+50	Spross	Sprosse	Sprösse	N;NOM;PL
+35	Neuwahl	Neuwahlen	Neuwähle	N;NOM;PL
+6	WC	WCs	WCse	N;NOM;PL
+26	Tibetfuchs	Tibetfüchse	Tibetfuchse	N;NOM;PL
+16	Schneiderlein	Schneiderlein	Schneiderleine	N;NOM;PL
+19	Katholik	Katholiken	Katholike	N;NOM;PL
+27	Hang	Hänge	Hange	N;NOM;PL
+41	Karbonatit	Karbonatite	Karbonatiten	N;NOM;PL
+1	Datei	Dateien	Dateis	N;NOM;PL
+25	Aasvogel	Aasvögel	Aasvogel	N;NOM;PL
+64	Chalkogenidglas	Chalkogenidgläser	Chalkogenidglase	N;NOM;PL
+58	Vertrag	Verträge	Vertrage	N;NOM;PL
+60	staubsaugen	gestaubsaugt	staubsaugt	V.PTCP;PST
+7	durchsetzen	durchgesetzt	durchsetzt	V.PTCP;PST
+33	einigen	geeinigt	einigt	V.PTCP;PST
+10	weglegen	weggelegt	geweglegt	V.PTCP;PST
+55	babysitten	gebabysittet	gebabittet	V.PTCP;PST
+56	umkehren	kehre um	umkehre	V;IND;PRS;1;SG
+59	schwören	schwört	schwörd	V;IND;PRS;2;PL
+52	verschließen	verschließt	verschließst	V;IND;PRS;2;SG
+54	verdecken	verdecket	verdeckt	V;IND;PRS;3;SG
+43	saufen	soff	saufte	V;IND;PST;1;SG
+42	umgeben	umgab	umgebte	V;IND;PST;1;SG
+48	schneiden	schnittest	schniedest	V;IND;PST;2;SG
+47	meiden	miedest	meidetest	V;IND;PST;2;SG
+17	ebnen	ebneten	ebnten	V;IND;PST;3;PL
+21	beheimaten	beheimatte	beheimatete	V;IND;PST;3;SG
+0	Bindfäden regnen	regnest Bindfäden	regese Bindfäden	V;SBJV;PRS;2;SG
+9	versenken	versenkten	versächten	V;SBJV;PST;3;PL
