@@ -1,0 +1,26 @@
+	lemma	gold	hypo	target tag
+5	imprimir	impresas	imprimidas	V.PTCP;PST;FEM;PL
+6	subscribir	subscritas	subscribidas	V.PTCP;PST;FEM;PL
+3	salir	saldría	saliría	V;COND;1;SG
+0	burlar	te burlarás	burlarás	V;IND;FUT;2;SG
+4	antedecir	antedirá	antedecirá	V;IND;FUT;3;SG
+22	persignarse	persignamos	nos persignamos	V;IND;PRS;1;PL
+20	moverse	me muevo	me movvo	V;IND;PRS;1;SG
+17	fungir	funjo	fungo	V;IND;PRS;1;SG
+10	recolar	recuela	recola	V;IND;PRS;3;SG
+13	ataviar	no atavíen	no atavien	V;NEG;IMP;3;PL
+23	conducir	no conduzca	no conduca	V;NEG;IMP;3;SG
+15	aunar	no aúne	no aune	V;NEG;IMP;3;SG
+14	escocer	escozamos	escozcamos	V;POS;IMP;1;PL
+16	desviar	desvía	desvia	V;POS;IMP;2;SG
+18	repolitizar	tacona	repolitiza	V;POS;IMP;2;SG
+11	fosilizarse	fosilícense	fosilicense	V;POS;IMP;3;PL
+21	tematizar	tematícen	tematicen	V;POS;IMP;3;PL
+19	encomendar	encomiende	encomende	V;POS;IMP;3;SG
+12	endomingarse	endomínguese	endominguese	V;POS;IMP;3;SG
+7	desplegar	despliegue	desplegue	V;POS;IMP;3;SG
+9	atañer	atañeres	atañieres	V;SBJV;FUT;2;SG
+24	demarcar	demarce	demarque	V;SBJV;PRS;1;SG
+2	cortar	cortes	cuertes	V;SBJV;PRS;2;SG
+1	gañir	gañeseis	gañieseis	V;SBJV;PST;2;PL
+8	autogestionarse	autogestionaran	autogestionara	V;SBJV;PST;3;PL;LGSPEC1
