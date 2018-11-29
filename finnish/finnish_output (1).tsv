@@ -1,0 +1,50 @@
+	lemma	gold	hypo	target tag
+29	csrds	csárdáseitta	csrdreksittä	;;N;PRIV;PL
+30	C-levysoitin	CD-levysoitinta	CC-levysoitinta	;N;PRT;SG
+11	ylhä	ylhineen	ylhine	ADJ;COM;PL
+20	viidesneljättä	viidennenneljättä	viidensienneljän	ADJ;GEADJ;SG
+46	pehmyt	pehmyisiin	pehmiin	ADJ;IN+ALL;PL
+44	ekstrusiivinen	ekstrusiivisetta	ekstrusiivisettä	ADJ;PRIV;SG
+21	betoniteräs	betoniteräkset	betoniteräät	N;ACC;PL
+0	gallup	gallupeilta	galluvilta	N;AT+ABL;PL
+3	polymeeri	polymeereilta	polymeereiltä	N;AT+ABL;PL
+8	tähtisampi	tähtisammelta	tähtisammalta	N;AT+ABL;SG
+32	sijaisperhe	sijaisperheeltä	sijaisperheelta	N;AT+ABL;SG
+28	jokivene	jokiveneeltä	jokiveneelta	N;AT+ABL;SG
+9	manuskripti	manuskriptilla	manuskripilla	N;AT+ESS;SG
+41	nuori	nuorella	nuorilla	N;AT+ESS;SG
+7	jousiammunta	jousiammuntoineen	jousiammuntineen	N;COM;PL
+22	riipunta	riipuntoina	riipuntina	N;FRML;PL
+40	puolapuut	puolapuina	puolapuinina	N;FRML;PL
+5	rasagiliini	rasagiliineina	rasagiliineinä	N;FRML;PL
+17	ydinkärki	ydinkärkenä	ydinkärkinä	N;FRML;SG
+12	hyeena	hyeenoiden	hyeenojen	N;GEN;PL
+45	shikoku	shikokuista	shikouista	N;IN+ABL;PL
+23	iskias	iskiakseen	iskiaaseen	N;IN+ALL;SG
+35	neitokurki	neitokurjissa	neitokureissa	N;IN+ESS;PL
+42	puhallusputki	puhallusputkissa	puhallusputkeissa	N;IN+ESS;PL
+48	kaukopiste	kaukopisteissä	kaukopisteissa	N;IN+ESS;PL
+1	loiskunta	loiskunnoissa	loiskunnissa	N;IN+ESS;PL
+4	judoka	judokoissa	judokissa	N;IN+ESS;PL
+16	kodkod	kodkodein	kodkoin	N;INS;PL
+19	rautatammi	rautatammitta	rautatammeitta	N;PRIV;PL
+31	progestiini	progestiinitta	progestiinittä	N;PRIV;SG
+13	poliisiauto	poliisiautotta	poliisiaudotta	N;PRIV;SG
+33	krupieeri	krupieereja	krupieerejä	N;PRT;PL
+18	puoluesihteeri	puoluesihteereita	puoluesihteereitä	N;PRT;PL
+26	automaattiovi	automaattiovea	automaattiovia	N;PRT;SG
+43	lapinsirri	lapinsirriä	lapinsirria	N;PRT;SG
+38	psyka	psykaksi	psyvaksi	N;TRANS;SG
+24	pursi	purreksi	pursiksi	N;TRANS;SG
+10	löpö	löpöksi	lövöksi	N;TRANS;SG
+37	saada selkäänsä	emme saisi	emme saate selkääräs	V;ACT;PRS;NEG;COND;1;PL
+34	nylkeä	emme nylkisi	emme nylkeisi	V;ACT;PRS;NEG;COND;1;PL
+14	karata	eivät karkaisi	eivät karaisi	V;ACT;PRS;NEG;COND;3;PL
+2	oi'istua	en oi'istune	en oiisistune	V;ACT;PRS;NEG;POT;1;SG
+6	harveta	harvenisimme	harpeaisimme	V;ACT;PRS;POS;COND;1;PL
+25	antaa ylen	antaisin ylen	antaisin	V;ACT;PRS;POS;COND;1;SG
+36	nähdä punaista	näkisit punaista	nähnät punaisisit	V;ACT;PRS;POS;COND;2;SG
+27	antaa opetus	antaisivat	antaisip opeus	V;ACT;PRS;POS;COND;3;PL
+47	valjeta	valkenit	valjenit	V;ACT;PST;POS;IND;2;SG
+15	myllätä	mylläsit	mylläit	V;ACT;PST;POS;IND;2;SG
+39	jakaa	lienee jaettu	lienee jajettu	V;PASS;PRS;PRF;POS;POT
