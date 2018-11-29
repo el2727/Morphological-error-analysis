@@ -1,132 +1,132 @@
-lemma	gold	hypo	target tag
-dadaizmus	dadaizmusoknál	dadaizmusokba	N;IN+ALL;PL
-album	albumokként	albumokig	N;FRML;PL
-fakopáncs	fakopáncsokig	fakopáncsokként	N;FRML;PL
-rakéta	rakétákig	rakétákként	N;FRML;PL
-p.	p.-ot	p.-nak	N;DAT;SG
-áfonya	áfonyát	áfonyának	N;DAT;SG
-zselé	zselékkel	zselékért	N;PRP;PL
-oldalág	oldalágakként	oldalágokként	N;FRML;PL
-hifi	hifiken	hifieken	N;ON+ESS;PL
-környékbeli	környékbeliekben	környékbelikben	N;IN+ESS;PL
-évszak	évszaknál	évszakba	N;IN+ALL;SG
-földbirtokos	földbirtokosokig	földbirtokosakig	N;TERM;PL
-gyémánt	gyémántokig	gyémántokként	N;FRML;PL
-facsavar	facsavarhoz	facsavarból	N;IN+ABL;SG
-blézer	blézerben	blézeren	N;ON+ESS;SG
-basenji	basenjikről	basenjikról	N;ON+ABL;PL
-etikus	etikusakká	etikusokká	N;TRANS;PL
-perc	percbe	percre	N;ON+ALL;SG
-pajesz	pajeszban	pajeszben	N;IN+ESS;SG
-tervezés	plural	tervezések	N;NOM;PL
-boltkóros	boltkórosokon	boltkórosakon	N;ON+ESS;PL
-postaláda	postaládáról	postaládától	N;AT+ABL;SG
-bocsát	bocsátani	bocsátni	V;NFIN
-tv	tv-ből	tv-hez	N;IN+ABL;SG
-visszavesz	visszavettek	visszavesztek	V;IND;PST;INDF;3;PL
-vezír	vezírig	vezírré	N;TERM;SG
-bárány	báránynál	bárányba	N;IN+ALL;SG
-cigaretta	cigarettának	cigarettával	N;INST;SG
-varangy	varangyról	varangytól	N;AT+ABL;SG
-koktél	koktéllal	koktélért	N;PRP;SG
-mell	melleket	mellek	N;ACC;PL
-akcióterv	akciótervvel	akciótervel	N;INST;SG
-hosszú	hosszúakat	hosszúkat	N;ACC;PL
-rendőrség	rendőrségig	rendőrségként	N;FRML;SG
-cigaretta	cigarettáért	cigarettává	N;TRANS;SG
-forma	formákkal	formákért	N;PRP;PL
-válasz	válaszokig	válaszokként	N;FRML;PL
-hangszer	hangszeren	hangszernél	N;AT+ESS;SG
-opera	operákká	operákig	N;TERM;PL
-könny	könnyért	könnnyé	N;TRANS;SG
-nyereg	nyerget	nyereget	N;ACC;SG
-nádor	nádorokhoz	nádorokból	N;IN+ABL;PL
-cinkos	cinkosoknak	cinkosaknak	N;DAT;PL
-tegnap	tegnapokra	tegnapokhoz	N;AT+ALL;PL
-mező	mezőig	mezőként	N;FRML;SG
-amerikai	amerikaivá	amerikaiig	N;TERM;SG
-konflis	konflisokra	konflisakra	N;ON+ALL;PL
-budapesti	budapestieken	budapestiken	N;ON+ESS;PL
-gyógyszerkönyv	gyógyszerkönyvekről	gyógyszerkönyvektől	N;AT+ABL;PL
-rendelvény	rendelvényre	rendelvénybe	N;ON+ALL;SG
-konténer	konténerből	konténerről	N;ON+ABL;SG
-fideszes	fideszest	fideszeset	N;ACC;SG
-nyoszolya	nyoszolyában	nyoszolyán	N;ON+ESS;SG
-addigi	addigiakba	addigikba	N;IN+ALL;PL
-huzat	huzatokból	huzatokról	N;ON+ABL;PL
-költségvetés	költségvetésekbe	költségvetésekre	N;ON+ALL;PL
-száj	szájakig	szájokig	N;TERM;PL
-csaló	csalóval	csalóért	N;PRP;SG
-túrós csusza	túrós csuszák	túrós csuszákat	N;ACC;PL
-lovász	lovászon	lovászban	N;ON+ESS;SG
-csőd	csődökből	csődekből	N;IN+ABL;PL
-balhé	balhékért	balhékká	N;TRANS;PL
-feladat	feladatokban	feladatokon	N;ON+ESS;PL
-tehén	teheneknél	tehéneknél	N;AT+ESS;PL
-év	évekért	évekké	N;TRANS;PL
-rezervátum	rezervátumokat	rezervátumoknak	N;DAT;PL
-karvaly	karvalyból	karvalyról	N;ON+ABL;SG
-mez	meznél	mezbe	N;IN+ALL;SG
-humor	humoroknál	humorokba	N;IN+ALL;PL
-vulkanizmus	vulkanizmusoknak	vulkanizmusokkal	N;INST;PL
-nős	nőseken	nősökön	N;ON+ESS;PL
-gyónik	gyónnám	gyóniknám	V;COND;PRS;DEF;1;SG
-Ft	Ft-ba	Ftra	N;ON+ALL;SG
-liget	ligetből	ligetről	N;ON+ABL;SG
-tanítványaim	tanítványaimat	tanítványaimot	N;ACC;SG
-bocsánat	bocsánatokig	bocsánatokként	N;FRML;PL
-szegfű	szegfűkké	szegfűekké	N;TRANS;PL
-bocs	bocshoz	bocsból	N;IN+ABL;SG
-bőrgyár	bőrgyáraknak	bőrgyároknak	N;DAT;PL
-dóm	dómért	dómmá	N;TRANS;SG
-ökölharc	ökölharcról	ökölharctól	N;AT+ABL;SG
-böjt	böjtökben	böjtekben	N;IN+ESS;PL
-dámvad	dámvadakat	dámvadok	N;ACC;PL
-isk.	isk.-knak	isk.-ekkel	N;INST;PL
-deizmus	deizmuson	deizmusnál	N;AT+ESS;SG
-legyőz	legyőznöm	legyőznem	V;NFIN;1;SG
-lagúna	lagúnák	lagúnákat	N;ACC;PL
-párhuzam	párhuzamokat	párhuzamoknak	N;DAT;PL
-forradalom	forradalomból	forradalomhoz	N;IN+ABL;SG
-állandóság	állandóságoknál	állandóságokba	N;IN+ALL;PL
-panamakalap	panamakalapra	panamakalaphoz	N;AT+ALL;SG
-dallam	dallamokról	dallamoktól	N;AT+ABL;PL
-áprilisi	áprilisiakká	áprilisiekké	N;TRANS;PL
-bodza	bodzáknak	bodzákkal	N;INST;PL
-gyár	gyáraknak	gyárokkal	N;INST;PL
-stabil	stabilakból	stabilokból	N;IN+ABL;PL
-virágcserép	virágcserepet	virágcserépnek	N;DAT;SG
-magyal	magyalon	magyalban	N;ON+ESS;SG
-ismeretlen	ismeretlenhez	ismeretlenből	N;IN+ABL;SG
-mari	mariknál	mariaknál	N;AT+ESS;PL
-dölyf	dölyfökön	dölyfekben	N;ON+ESS;PL
-billentyű	billentyűkké	billentyűekig	N;TERM;PL
-robotos	robotosokká	robotosakká	N;TRANS;PL
-alatti	alattiakért	alattikért	N;PRP;PL
-adatlap	adatlapot	adatlap	N;ACC;SG
-problémás	problémásakból	problémásokból	N;IN+ABL;PL
-tanti	tantikig	tantikként	N;FRML;PL
-ismert	ismertekbe	ismerteknél	N;IN+ALL;PL
-változás	változásokká	változásokig	N;TERM;PL
-gyűrű	gyűrűben	gyűrűn	N;ON+ESS;SG
-banya	banyával	banyáért	N;PRP;SG
-betyár	betyárrá	betyárig	N;TERM;SG
-alkar	alkarért	alkarrá	N;TRANS;SG
-földrengés	földrengésre	földrengéshez	N;AT+ALL;SG
-cipész	cipészekért	cipészekké	N;TRANS;PL
-bizonyítás	bizonyításokat	bizonyításoknak	N;DAT;PL
-demokrácia	demokráciából	demokráciáról	N;ON+ABL;SG
-hidegháború	hidegháborúnál	hidegháborúba	N;IN+ALL;SG
-biofizika	plural	biofizikák	N;NOM;PL
-karácsonyéj	karácsonyéjektől	karácsonyéjoktól	N;AT+ABL;PL
-rajong	rajongta	rajongotta	V;IND;PST;DEF;3;SG
-heverő	singular	heverő	N;NOM;SG
-baleset	baleseteken	balesetekben	N;ON+ESS;PL
-homeosztázis	homeosztázisoknak	homeosztázisaknak	N;DAT;PL
-összeszed	összeszedett	összeszedt	V;IND;PST;INDF;3;SG
-zsákutca	zsákutcát	zsákutcának	N;DAT;SG
-vagdos	vagdossa	vagdosja	V;IND;PRS;DEF;3;SG
-műholdas	műholdasakká	műholdasokká	N;TRANS;PL
-mészkő	mészkövekké	mészkőkké	N;TRANS;PL
-deista	deistákká	deistákig	N;TERM;PL
-rész	részül	részben	N;IN+ESS;SG
+	lemma	gold	hypo	target tag
+58	túrós csusza	túrós csuszák	túrós csuszákat	N;ACC;PL
+30	mell	melleket	mellek	N;ACC;PL
+86	lagúna	lagúnák	lagúnákat	N;ACC;PL
+32	hosszú	hosszúakat	hosszúkat	N;ACC;PL
+82	dámvad	dámvadakat	dámvadok	N;ACC;PL
+51	fideszes	fideszest	fideszeset	N;ACC;SG
+104	adatlap	adatlapot	adatlap	N;ACC;SG
+74	tanítványaim	tanítványaimat	tanítványaimot	N;ACC;SG
+40	nyereg	nyerget	nyereget	N;ACC;SG
+91	dallam	dallamokról	dallamoktól	N;AT+ABL;PL
+48	gyógyszerkönyv	gyógyszerkönyvekről	gyógyszerkönyvektől	N;AT+ABL;PL
+119	karácsonyéj	karácsonyéjektől	karácsonyéjoktól	N;AT+ABL;PL
+80	ökölharc	ökölharcról	ökölharctól	N;AT+ABL;SG
+21	postaláda	postaládáról	postaládától	N;AT+ABL;SG
+28	varangy	varangyról	varangytól	N;AT+ABL;SG
+43	tegnap	tegnapokra	tegnapokhoz	N;AT+ALL;PL
+113	földrengés	földrengésre	földrengéshez	N;AT+ALL;SG
+90	panamakalap	panamakalapra	panamakalaphoz	N;AT+ALL;SG
+99	mari	mariknál	mariaknál	N;AT+ESS;PL
+63	tehén	teheneknél	tehéneknél	N;AT+ESS;PL
+84	deizmus	deizmuson	deizmusnál	N;AT+ESS;SG
+37	hangszer	hangszeren	hangszernél	N;AT+ESS;SG
+78	bőrgyár	bőrgyáraknak	bőrgyároknak	N;DAT;PL
+42	cinkos	cinkosoknak	cinkosaknak	N;DAT;PL
+87	párhuzam	párhuzamokat	párhuzamoknak	N;DAT;PL
+65	rezervátum	rezervátumokat	rezervátumoknak	N;DAT;PL
+123	homeosztázis	homeosztázisoknak	homeosztázisaknak	N;DAT;PL
+115	bizonyítás	bizonyításokat	bizonyításoknak	N;DAT;PL
+96	virágcserép	virágcserepet	virágcserépnek	N;DAT;SG
+4	p.	p.-ot	p.-nak	N;DAT;SG
+5	áfonya	áfonyát	áfonyának	N;DAT;SG
+125	zsákutca	zsákutcát	zsákutcának	N;DAT;SG
+1	album	albumokként	albumokig	N;FRML;PL
+2	fakopáncs	fakopáncsokig	fakopáncsokként	N;FRML;PL
+3	rakéta	rakétákig	rakétákként	N;FRML;PL
+106	tanti	tantikig	tantikként	N;FRML;PL
+75	bocsánat	bocsánatokig	bocsánatokként	N;FRML;PL
+36	válasz	válaszokig	válaszokként	N;FRML;PL
+12	gyémánt	gyémántokig	gyémántokként	N;FRML;PL
+7	oldalág	oldalágakként	oldalágokként	N;FRML;PL
+33	rendőrség	rendőrségig	rendőrségként	N;FRML;SG
+44	mező	mezőig	mezőként	N;FRML;SG
+60	csőd	csődökből	csődekből	N;IN+ABL;PL
+105	problémás	problémásakból	problémásokból	N;IN+ABL;PL
+95	stabil	stabilakból	stabilokból	N;IN+ABL;PL
+41	nádor	nádorokhoz	nádorokból	N;IN+ABL;PL
+23	tv	tv-ből	tv-hez	N;IN+ABL;SG
+13	facsavar	facsavarhoz	facsavarból	N;IN+ABL;SG
+77	bocs	bocshoz	bocsból	N;IN+ABL;SG
+98	ismeretlen	ismeretlenhez	ismeretlenből	N;IN+ABL;SG
+88	forradalom	forradalomból	forradalomhoz	N;IN+ABL;SG
+107	ismert	ismertekbe	ismerteknél	N;IN+ALL;PL
+68	humor	humoroknál	humorokba	N;IN+ALL;PL
+89	állandóság	állandóságoknál	állandóságokba	N;IN+ALL;PL
+0	dadaizmus	dadaizmusoknál	dadaizmusokba	N;IN+ALL;PL
+53	addigi	addigiakba	addigikba	N;IN+ALL;PL
+26	bárány	báránynál	bárányba	N;IN+ALL;SG
+67	mez	meznél	mezbe	N;IN+ALL;SG
+117	hidegháború	hidegháborúnál	hidegháborúba	N;IN+ALL;SG
+10	évszak	évszaknál	évszakba	N;IN+ALL;SG
+81	böjt	böjtökben	böjtekben	N;IN+ESS;PL
+9	környékbeli	környékbeliekben	környékbelikben	N;IN+ESS;PL
+18	pajesz	pajeszban	pajeszben	N;IN+ESS;SG
+130	rész	részül	részben	N;IN+ESS;SG
+83	isk.	isk.-knak	isk.-ekkel	N;INST;PL
+69	vulkanizmus	vulkanizmusoknak	vulkanizmusokkal	N;INST;PL
+94	gyár	gyáraknak	gyárokkal	N;INST;PL
+93	bodza	bodzáknak	bodzákkal	N;INST;PL
+27	cigaretta	cigarettának	cigarettával	N;INST;SG
+31	akcióterv	akciótervvel	akciótervel	N;INST;SG
+118	biofizika	plural	biofizikák	N;NOM;PL
+19	tervezés	plural	tervezések	N;NOM;PL
+121	heverő	singular	heverő	N;NOM;SG
+15	basenji	basenjikről	basenjikról	N;ON+ABL;PL
+54	huzat	huzatokból	huzatokról	N;ON+ABL;PL
+116	demokrácia	demokráciából	demokráciáról	N;ON+ABL;SG
+73	liget	ligetből	ligetről	N;ON+ABL;SG
+50	konténer	konténerből	konténerről	N;ON+ABL;SG
+66	karvaly	karvalyból	karvalyról	N;ON+ABL;SG
+55	költségvetés	költségvetésekbe	költségvetésekre	N;ON+ALL;PL
+46	konflis	konflisokra	konflisakra	N;ON+ALL;PL
+17	perc	percbe	percre	N;ON+ALL;SG
+49	rendelvény	rendelvényre	rendelvénybe	N;ON+ALL;SG
+72	Ft	Ft-ba	Ftra	N;ON+ALL;SG
+20	boltkóros	boltkórosokon	boltkórosakon	N;ON+ESS;PL
+100	dölyf	dölyfökön	dölyfekben	N;ON+ESS;PL
+62	feladat	feladatokban	feladatokon	N;ON+ESS;PL
+70	nős	nőseken	nősökön	N;ON+ESS;PL
+47	budapesti	budapestieken	budapestiken	N;ON+ESS;PL
+122	baleset	baleseteken	balesetekben	N;ON+ESS;PL
+8	hifi	hifiken	hifieken	N;ON+ESS;PL
+14	blézer	blézerben	blézeren	N;ON+ESS;SG
+52	nyoszolya	nyoszolyában	nyoszolyán	N;ON+ESS;SG
+97	magyal	magyalon	magyalban	N;ON+ESS;SG
+109	gyűrű	gyűrűben	gyűrűn	N;ON+ESS;SG
+59	lovász	lovászon	lovászban	N;ON+ESS;SG
+103	alatti	alattiakért	alattikért	N;PRP;PL
+6	zselé	zselékkel	zselékért	N;PRP;PL
+35	forma	formákkal	formákért	N;PRP;PL
+57	csaló	csalóval	csalóért	N;PRP;SG
+110	banya	banyával	banyáért	N;PRP;SG
+29	koktél	koktéllal	koktélért	N;PRP;SG
+108	változás	változásokká	változásokig	N;TERM;PL
+38	opera	operákká	operákig	N;TERM;PL
+129	deista	deistákká	deistákig	N;TERM;PL
+56	száj	szájakig	szájokig	N;TERM;PL
+101	billentyű	billentyűkké	billentyűekig	N;TERM;PL
+11	földbirtokos	földbirtokosokig	földbirtokosakig	N;TERM;PL
+25	vezír	vezírig	vezírré	N;TERM;SG
+45	amerikai	amerikaivá	amerikaiig	N;TERM;SG
+111	betyár	betyárrá	betyárig	N;TERM;SG
+61	balhé	balhékért	balhékká	N;TRANS;PL
+127	műholdas	műholdasakká	műholdasokká	N;TRANS;PL
+128	mészkő	mészkövekké	mészkőkké	N;TRANS;PL
+16	etikus	etikusakká	etikusokká	N;TRANS;PL
+64	év	évekért	évekké	N;TRANS;PL
+102	robotos	robotosokká	robotosakká	N;TRANS;PL
+76	szegfű	szegfűkké	szegfűekké	N;TRANS;PL
+114	cipész	cipészekért	cipészekké	N;TRANS;PL
+92	áprilisi	áprilisiakká	áprilisiekké	N;TRANS;PL
+112	alkar	alkarért	alkarrá	N;TRANS;SG
+79	dóm	dómért	dómmá	N;TRANS;SG
+34	cigaretta	cigarettáért	cigarettává	N;TRANS;SG
+39	könny	könnyért	könnnyé	N;TRANS;SG
+71	gyónik	gyónnám	gyóniknám	V;COND;PRS;DEF;1;SG
+126	vagdos	vagdossa	vagdosja	V;IND;PRS;DEF;3;SG
+120	rajong	rajongta	rajongotta	V;IND;PST;DEF;3;SG
+24	visszavesz	visszavettek	visszavesztek	V;IND;PST;INDF;3;PL
+124	összeszed	összeszedett	összeszedt	V;IND;PST;INDF;3;SG
+22	bocsát	bocsátani	bocsátni	V;NFIN
+85	legyőz	legyőznöm	legyőznem	V;NFIN;1;SG
