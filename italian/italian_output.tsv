@@ -1,0 +1,22 @@
+	lemma	gold	hypo	target tag
+17	sopirsi	sopentesi	sopientesi	V.PTCP;PRS
+2	educere	edotto	educoto	V.PTCP;PST
+18	ravvedersi	ci ravvedremmo	ci ravvederemmo	V;COND;1;PL
+10	vedersela	se la vedrebbero	se l' derebbero	V;COND;3;PL
+5	ripiovere	ripioveranno	ripioverebbero	V;COND;3;PL
+0	allungare	allungeremo	allungheremo	V;IND;FUT;1;PL
+20	adagiare	adagerò	adagierò	V;IND;FUT;1;SG
+9	uscirsene	te ne esci	te ne sucisci	V;IND;PRS;2;SG
+19	escire	esce	escisce	V;IND;PRS;3;SG
+11	assalire	assale	assalisce	V;IND;PRS;3;SG
+15	prendersela	me la presi	m presei	V;IND;PST;1;SG;PFV
+8	smetterla	la smettevate	lsmettevate	V;IND;PST;2;PL;IPFV
+7	morirsene	si morivano	se la morivano	V;IND;PST;3;PL;IPFV
+12	sfarsi	si fecero	si sfattero	V;IND;PST;3;PL;PFV
+13	premettere	premisero	premettettero	V;IND;PST;3;PL;PFV
+3	ebere	ebevvero	ebebbero	V;IND;PST;3;PL;PFV
+6	filarsela	filiamocela	filiamola	V;POS;IMP;1;PL
+4	sopire	sopisca	sopia	V;POS;IMP;3;SG
+16	pulirsi	mi pula	mi pulisca	V;SBJV;PRS;1;SG
+14	prevenire	prevenga	previenga	V;SBJV;PRS;3;SG
+1	sdolere	ridolessero	sdolessero	V;SBJV;PST;3;PL
