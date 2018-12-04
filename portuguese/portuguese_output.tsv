@@ -1,0 +1,8 @@
+	lemma	gold	hypo	target tag
+6	remoer	remoe	remoeremos	V;1;PL;IND;FUT
+0	progredir	progridem	progredem	V;3;PL;IND;PRS
+1	haver	houvessem	havessem	V;3;PL;SBJV;PST;IPFV
+3	intervir	intervenha	interva	V;3;SG;SBJV;PRS
+4	inerir	inira	inera	V;3;SG;SBJV;PRS
+5	manter	mantenha	manta	V;3;SG;SBJV;PRS
+2	haver	houvesse	havesse	V;3;SG;SBJV;PST;IPFV
