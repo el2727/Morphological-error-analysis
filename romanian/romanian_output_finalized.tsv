@@ -1,0 +1,107 @@
+	lemma	gold	hypo	target tag
+1	lesbian	lesbieni	lesbienilor	ADJ;DAT/GEN;FEM;SG;INDF
+2	sânt	sânților	sânți	ADJ;DAT/GEN;FEM;SG;INDF
+3	teoretic	teoreticilor	teoretici	ADJ;DAT/GEN;FEM;SG;INDF
+4	bulgar	bulgarule	bulgarului	ADJ;DAT/GEN;MASC;SG;DEF
+5	dur	dur	durului	ADJ;DAT/GEN;MASC;SG;INDF
+6	sugaci	sugaciului	sugaci	ADJ;DAT/GEN;MASC;SG;INDF
+7	alb	alb	albului	ADJ;DAT/GEN;MASC;SG;INDF
+8	dulce	dulcii	dulcei	ADJ;DAT/GEN;NEUT;SG;DEF
+9	roib	unor roibi	roibe	ADJ;DAT/GEN;NEUT;SG;INDF
+10	nevăzut	nevăzuţii	nevăzuții	ADJ;NOM/ACC;FEM;SG;DEF
+11	dezgustător	dezgustătorii	dezgustători	ADJ;NOM/ACC;FEM;SG;DEF
+12	acid	niște acizi	acizii	ADJ;NOM/ACC;FEM;SG;DEF
+13	ipocrit	niște ipocriți	ipocriții	ADJ;NOM/ACC;FEM;SG;DEF
+14	antic	niște antici	anticii	ADJ;NOM/ACC;FEM;SG;DEF
+15	neașteptat	neașteptaţi	neașteptați	ADJ;NOM/ACC;FEM;SG;INDF
+16	aducător	un aducător	aducătorul	ADJ;NOM/ACC;MASC;SG;DEF
+17	afgan	definite articulation	afgan	ADJ;NOM/ACC;MASC;SG;INDF
+18	străin	definite articulation	străin	ADJ;NOM/ACC;MASC;SG;INDF
+19	animal	animalul	animala	ADJ;NOM/ACC;NEUT;SG;DEF
+20	ivorian	ivorianul	ivorienul	ADJ;NOM/ACC;NEUT;SG;DEF
+21	maro	maroul	maroa	ADJ;NOM/ACC;NEUT;SG;DEF
+22	bețiv	bețivul	bețiva	ADJ;NOM/ACC;NEUT;SG;DEF
+23	somnambul	somnambulul	somnambula	ADJ;NOM/ACC;NEUT;SG;DEF
+24	vânăt	vânăta	vânătul	ADJ;NOM/ACC;NEUT;SG;DEF
+25	grăsun	grăsunul	grăsuna	ADJ;NOM/ACC;NEUT;SG;DEF
+26	descurcăreț	descurcăreață	descurcăreță	ADJ;NOM/ACC;NEUT;SG;INDF
+27	viitor	indefinite articulation	viitoră	ADJ;NOM/ACC;NEUT;SG;INDF
+28	gaură	găurilor	gaurelor	N;GEN/DAT;PL;DEF
+29	izvor	izvoarelor	izvorilor	N;GEN/DAT;PL;DEF
+30	tutun	tutunurilor	tutunilor	N;GEN/DAT;PL;DEF
+31	pace	păcii	păcilor	N;GEN/DAT;PL;DEF
+32	încredere	încrederii	încrederilor	N;GEN/DAT;PL;DEF
+33	libertate	libertăților	libertății	N;GEN/DAT;PL;DEF
+34	doamnă	doamnelor	domele	N;GEN/DAT;PL;DEF
+35	văduvă	văduvelor	văduvilor	N;GEN/DAT;PL;DEF
+36	onoare	onorurilor	onorilor	N;GEN/DAT;PL;DEF
+37	buric	buricelor	buricilor	N;GEN/DAT;PL;DEF
+38	deșteptăciune	deșteptăciunii	deșteptăciunilor	N;GEN/DAT;PL;DEF
+39	îmbrăcăminte	unei îmbrăcăminți	unei îmbrăcăminte	N;GEN/DAT;SG;INDF
+40	tamburină	unei tamburine	unei tamburini	N;GEN/DAT;SG;INDF
+41	castravete	unui castravete	unei castraveți	N;GEN/DAT;SG;INDF
+42	alivancă	unei alivenci	unei alivance	N;GEN/DAT;SG;INDF
+43	gutuie	unei gutui	unei gutuii	N;GEN/DAT;SG;INDF
+44	zgardă	unei zgărzi	unei zgarde	N;GEN/DAT;SG;INDF
+45	pugilat	pugilatele	pugilaturile	N;NOM/ACC;PL;DEF
+46	portar	portarii	portarele	N;NOM/ACC;PL;DEF
+47	bulangiu	bulangiii	bulangiile	N;NOM/ACC;PL;DEF
+48	menestrel	menestrelii	menestrelele	N;NOM/ACC;PL;DEF
+49	mililitru	mililitrii	mililitrile	N;NOM/ACC;PL;DEF
+50	făget	făgetele	făgeturile	N;NOM/ACC;PL;DEF
+51	zară	zara	zările	N;NOM/ACC;PL;DEF
+52	trifoi	trifoiurile	trifoii	N;NOM/ACC;PL;DEF
+53	monotrem	niște monotreme	niște monotremi	N;NOM/ACC;SG;INDF
+54	hidrat	niște hidrați	niște hidrate	N;NOM/ACC;SG;INDF
+55	elicopter	niște elicoptere	niște elicopteri	N;NOM/ACC;SG;INDF
+56	caimac	niște caimacuri	niște caimaci	N;NOM/ACC;SG;INDF
+57	multipolaritate	multipolaritate	niște multipolarități	N;NOM/ACC;SG;INDF
+58	sarma	niște sarmale	niște sarma	N;NOM/ACC;SG;INDF
+59	pai	niște paie	niște paiuri	N;NOM/ACC;SG;INDF
+60	koala	niște koala	niște coala	N;NOM/ACC;SG;INDF
+61	psihologie	psihologie	niște psihologii	N;NOM/ACC;SG;INDF
+62	popularitate	popularitate	niște popularități	N;NOM/ACC;SG;INDF
+63	izvor	izvoarelor	izvorilor	N;VOC;PL
+64	pitic	piticilor	piticurilor	N;VOC;PL
+65	vale	văilor	vălilor	N;VOC;PL
+66	metru	metrilor	metrelor	N;VOC;PL
+67	buc	bucilor	bucurilor	N;VOC;PL
+68	peșteră	peșterilor	peșterelor	N;VOC;PL
+69	câșlegi	câșlegilor	câșlegiule	N;VOC;SG
+70	face sex	făcând sex	faceți sex	V.CVB;PRS
+71	ucide	ucigând	ucidând	V.CVB;PRS
+72	prăda	prad	prădez	V;IND;PRS;1;SG
+73	ști	știu	ștesc	V;IND;PRS;1;SG
+74	lua în seamă	iei în seamă	luași în seamă	V;IND;PRS;2;SG
+75	depărta	depărtezi	deperti	V;IND;PRS;2;SG
+76	coase	cos	coas	V;IND;PRS;3;PL
+77	urma	urmează	urmă	V;IND;PRS;3;PL
+78	vătăma	vatămă	vătamă	V;IND;PRS;3;PL
+79	întâmpla	întâmplă	întâmplează	V;IND;PRS;3;SG
+80	îngusta	îngustează	îngustă	V;IND;PRS;3;SG
+81	юби	юбям	юб	V;IND;PST;1;SG;IPFV
+82	da jos	dădui jos	dădusezi	V;IND;PST;1;SG;PFV
+83	da jos	dădeați jos	dădeau jos	V;IND;PST;2;PL;IPFV
+84	ajunge la majorat	ajunsși la majorat	ajungeam la majorat	V;IND;PST;2;SG;PFV
+85	împrospăta	prospătară	împrospătară	V;IND;PST;3;PL;PFV
+86	cădea	cazi	cade	V;POS;IMP;2;SG
+87	pieptăna	piaptănă	pieptănează	V;POS;IMP;2;SG
+88	păduchea	despăducheați	păducheați	V;POS;IMP;3;PL
+89	avea dreptate	aveți dreptate	avea dreptateți	V;POS;IMP;3;PL
+90	lansa	să lans	să lansez	V;SBJV;PRS;1;SG
+91	sătura	să satur	să saturez	V;SBJV;PRS;1;SG
+92	rezema	să reazem	să rezem	V;SBJV;PRS;1;SG
+93	împăca	să împac	să împăc	V;SBJV;PRS;1;SG
+94	lua în seamă	să luați în seamă	să luăm în seamă	V;SBJV;PRS;2;PL
+95	cugeta	să cugeti	să cugeți	V;SBJV;PRS;2;SG
+96	căpăta	să capeți	să capeti	V;SBJV;PRS;2;SG
+97	cumpăra	să cumpări	să cumperi	V;SBJV;PRS;2;SG
+98	civiliza	să civiizezi	să civilizezi	V;SBJV;PRS;2;SG
+99	ajunge la majorat	să ajungă la majorat	să ajungeam lajorat	V;SBJV;PRS;3;PL
+100	dezrădăcina	să dezrădăcineze	să dezrădăcine	V;SBJV;PRS;3;PL
+101	ușura	să ușureze	să ușure	V;SBJV;PRS;3;PL
+102	aștepta	să aștepte	să aștepteze	V;SBJV;PRS;3;PL
+103	tenta	să tenteze	să tente	V;SBJV;PRS;3;SG
+104	descrește	să descrească	să descrescă	V;SBJV;PRS;3;SG
+105	excela	să exceleze	să excele	V;SBJV;PRS;3;SG
+106	răscula	să răscoale	să răscule	V;SBJV;PRS;3;SG
