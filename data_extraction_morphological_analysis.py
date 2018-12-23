@@ -1,10 +1,4 @@
 #!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
-#!/usr/bin/env python
 
 """Data import and extraction of lemmas, gold, hypo and target output tags""" 
 
