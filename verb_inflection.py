@@ -62,6 +62,7 @@ def future_perfective(stem):
     yer = pynini.union("ь", "ъ") 
     consonants = pynini.union("б", "в", "г", "д", "ж", "з", "й", "к", "л", "м", "н", "п", "р", "с", "т", "ф", "х", "ц", "ч", "ш", "щ")
     sigma_star = pynini.union(vowels, consonants, yer).closure()
+    # Define rules for a 1SG future tense inflection
     future_tense_map = pynini.union(
                     #Consonant mutation cases as mentioned in Wade, 2010
                     # т : ч
@@ -137,6 +138,9 @@ def future_perfective(stem):
 
 
 def evaluation(perfective_verbs):
+    
+    """Evaluate on test data"""
+    
     perfective_verbs_test = []
     for i in perfective_verbs[62:]:
         perfective_verbs_test.append(i[0])
