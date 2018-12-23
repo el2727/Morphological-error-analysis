@@ -3,8 +3,11 @@
 import pynini
 
 def get_data(file):
+    
     """Read in data from SIGMORPHON Shared Task 2017 for Russian verbs' inflection in first-person singular future tense"""
+    
     content = [i.strip('\n').split('\t') for i in open(file)] 
+    
     # Get lists of imperfective and perfective verbs
 
     imperfective_verbs = []
@@ -20,7 +23,9 @@ def get_data(file):
 # Full list of verbs with prefixes is in the Appendix
 
 def get_percentage_prefix():
+    
     """Find out how many verbs start with perfective prefixes"""
+    
     # Define perfective prefixes (according to Wade, 2010, 272)
     perfective_prefixes = ['без', 'вз', 'взо', 'во', 'воз', 'вы', 'за', 'из', 'изо', 'на', 'над', 'надо', 'недо', 'низ', 'низо', 
                        'о', 'об', 'обо', 'от', 'ото', 'пере', 'по', 'под', 'подо', 'пона', 'пре', 'пред', 'при', 'про',
@@ -49,7 +54,10 @@ def get_percentage_prefix():
                  "Percentage of perfective prefixes in imperfective verbs:", percentage_prefix_imperfective)
 
 
-def future_imperfective(stem):
+def future_perfective(stem):
+    
+    """Transducer for first-person singular future tense of perfective verbs""" 
+    
     vowels = pynini.union("а", "е", "ё", "и", "о", "у", "ы", "э", "ю", "я")
     yer = pynini.union("ь", "ъ") 
     consonants = pynini.union("б", "в", "г", "д", "ж", "з", "й", "к", "л", "м", "н", "п", "р", "с", "т", "ф", "х", "ц", "ч", "ш", "щ")
@@ -135,7 +143,7 @@ def evaluation(perfective_verbs):
     
     results = []
     for i in perfective_verbs_test:
-        results.append(future_imperfective(i))
+        results.append(future_perfective(i))
         
     correct_list = []
     for i in perfective_verbs[62:]:
