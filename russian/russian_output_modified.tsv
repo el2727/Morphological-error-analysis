@@ -1,0 +1,73 @@
+﻿	lemma	gold	hypo	target tag	gloss	error type	description
+70	заимствованный	заимствованна	заимствована	ADJ;FEM;SG;LGSPEC1	borrowed 	affix	error in affix application (suffix)
+27	бездыханный	бездыханно	бездыхано	ADJ;NEUT;SG;LGSPEC1	breathless 	affix	error in affix application (suffix)
+64	согласованный	согласованно	согласовано	ADJ;NEUT;SG;LGSPEC1	agreed 	affix	error in affix application (suffix)
+28	оса	осе	осу	N;ACC;ANIM;SG	bee	data	error in Wiktionary data for the accusative form
+71	шарлатан	шарлатанов	шарлатаны	N;ACC;PL	charlatan 	affix	error in affix application (suffix/ending)
+19	итальянка	итальянок	итальянки	N;ACC;PL	Italian(fem.) 	affix	error in affix application (suffix/ending)
+16	квадрант	квадранты	квадрантов	N;ACC;PL	quadrant 	affix	error in affix application (suffix/ending)
+13	бабье лето	бабьи лета	бабья лето	N;ACC;PL	Indian summer 	lemma internal structure	error in declension of a noun and inflection of an adjective in a compound word
+51	горница	горницы	горниц	N;ACC;PL	 upper room 	affix	error in affix application (suffix/ending)
+45	снайпер	снайперов	снайперы	N;ACC;PL	sniper 	affix	error in affix application (suffix/ending)
+68	лёгкая промышленность	лёгкие промышленности	лёгких промышленности	N;ACC;PL	 light ndustry 	lemma internal structure	error in inflection of an adjective in a compound word
+6	мажор	мажоры	мажоров	N;ACC;PL	major 	affix	error in affix application (suffix/ending)
+57	экстрасенс	экстрасенса	экстрасенс	N;ACC;SG	psychic 	affix	error in affix application (suffix/ending)
+26	селезень	селезня	селезень	N;ACC;SG	drake 	affix	error in affix application (suffix/ending)
+25	магазин	магазин	магазина	N;ACC;SG	shop 	affix	error in affix application (suffix/ending)
+36	анофелес	анофелеса	анофелес	N;ACC;SG	anopheles 	affix	error in affix application (suffix/ending)
+38	троглодит	троглодита	троглодит	N;ACC;SG	troglodyte 	affix	error in affix application (suffix/ending)
+59	изгой	изгоя	изгой	N;ACC;SG	outcast 	affix	error in affix application (suffix/ending)
+42	дьявол	дьявола	дьявол	N;ACC;SG	devil 	affix	error in affix application (suffix/ending)
+44	дирижабль	дирижабль	дирижабля	N;ACC;SG	zeppelin 	affix	error in affix application (suffix/ending)
+50	равносторонний треугольник	равносторонний треугольник	равносторонний треугольн	N;ACC;SG	equilateral triangle 	lemma internal structure	error in declension of a noun in a compound word
+34	кумарин	кумарин	кумарина	N;ACC;SG	coumarin 	affix	error in affix application (suffix/ending)
+39	прочее	прочим	прочем	N;DAT;PL	other 	affix	error in affix application (suffix/ending)
+61	Ермолай	Ермолаю	Емолаю	N;DAT;SG	Ermolay 	copy	error in copying stem by omitting a letter 
+52	земледелец	земледельцу	земледелцу	N;DAT;SG	farmer 	stem	error in stem modification
+18	человекообразная обезьяна	человекообразной обезьяне	человекообразной обезьян	N;DAT;SG	 ape 	lemma internal structure	error in declension of a noun in a compound word
+40	сарафанное радио	сарафанных радио	сарафанных радиях	N;ESS;PL	word of mouth 	lemma internal structure	error in declension of a noun in a compound word
+66	государство-донор	государствах-донорах	государство-донорах	N;ESS;PL	state donor 	lemma internal structure	error in declension of a noun in a compound word
+8	отмель	отмели	отмеле	N;ESS;SG	shallow 	affix	error in affix application (suffix/ending)
+65	пристав-исполнитель	приставов-исполнителей	пристав-исполнителей	N;GEN;PL	bailiff 	lemma internal structure	error in declension of a noun in a compound word
+63	серьга	серёг	серьг	N;GEN;PL	earring 	stem	error in stem modification
+35	уголье	угольев	уголий	N;GEN;PL	coal	copy	error in copying stem in declension
+12	чабрец	чабрецов	чабрцев	N;GEN;PL	thyme 	copy	error in copying stem by omitting a letter 
+2	погремушка	погремушек	погремушок	N;GEN;PL	rattle 	spelling	error which can be repaired by applying a spelling rule 
+4	коврижка	коврижек	коврижок	N;GEN;PL	gingerbread	spelling	error which can be repaired by applying a spelling rule 
+10	загрузка	загрузк	загрузок	N;GEN;PL	loading	data	error in Wiktionary data 
+15	синдром Аспергера	синдромов Аспергера	синдромов Аспергер	N;GEN;PL	Asperger's syndrome	lemma internal structure	error in declension of a noun in a compound word
+9	растеря	растери	растеря	N;GEN;SG	 who loses things 	affix	error in affix application (suffix/ending)
+11	эмаль	эмали	эмаля	N;GEN;SG	enamel 	affix	error in affix application (suffix/ending)
+0	млекопитающее	млекопитающим	млекопитающем	N;INS;SG	mammal 	affix	error in affix application (suffix/ending)
+31	албанский	албанского	албанский	N;NOM;SG	Albanian (has to be an adjective, not noun)	affix	error in affix application (suffix/ending)
+46	пожечь	пожёгший	пожекший	V.PTCP;ACT;PST	burn 	stem	error in stem modification
+41	сердить	серженный	сердённый	V.PTCP;PASS;PST	angry 	stem	error in stem modification
+1	отклонить	отклонённый	отклонленный	V.PTCP;PASS;PST	reject	stem	error in stem modification
+62	затрудняться	будем затрудняться	затрудняемся	V;FUT;1;PL	 to have difficulty 	affix	error in affix application (future tense)
+23	ладить	буду ладить	лажу	V;FUT;1;SG	 to get on (with) 	affix	error in affix application (future tense)
+48	исследоваться	буду исследоваться	исследуюсь	V;FUT;1;SG	to be researched 	affix	error in affix application (future tense)
+56	подвыпить	подвыпью	подвыплю	V;FUT;1;SG	to have a couple 	affix	error in affix application (future tense)
+33	пронизать	пронижете	будете пронизать	V;FUT;2;PL	 to pierce	affix	error in affix application (future tense)
+30	заколоть	будешь заколоть	заколешь	V;FUT;2;SG	 to attach with a pin 	affix	error in affix application (future tense)
+5	взвиться	взовьются	взвятся	V;FUT;3;PL	fly up 	stem	error in stem modification
+17	растить	будут растить	растят	V;FUT;3;PL	to grow 	affix	error in affix application (future tense)
+7	пропитаться	будет пропитаться	пропитается	V;FUT;3;SG	 to be saturated 	affix	error in affix application (future tense)
+22	свершаться	будет свершаться	свершится	V;FUT;3;SG	 to happen 	affix	error in affix application (future tense)
+21	ассоциироваться	будет ассоциироваться	ассоциируется	V;FUT;3;SG	 to be associated 	affix	error in affix application (future tense)
+43	изжить	изживет	изжит	V;FUT;3;SG	  to overcome	affix	error in affix application (future tense)
+20	светать	будет светать	светает	V;FUT;3;SG	 to dawn 	affix	error in affix application (future tense)
+54	рыбачить	будет рыбачить	рыбачит	V;FUT;3;SG	 to fish 	affix	error in affix application (future tense)
+37	прозвать	прозовет	прозвает	V;FUT;3;SG	 to name	affix	error in affix application (future tense)
+58	халтурить	халтурьте	халтурите	V;IMP;2;PL	to do smth poorly 	affix	error in affix application (suffix)
+49	сосредоточиться	сосредоточьтесь	сосредоточитесь	V;IMP;2;PL	  to focus	affix	error in affix application (suffix)
+67	обшарить	обшарьте	обшарите	V;IMP;2;PL	 to ransack 	affix	error in affix application (suffix)
+53	копить	копи	копь	V;IMP;2;SG	   to save up 	affix	error in affix application (suffix)
+69	подпереть	подопри	подперей	V;IMP;2;SG	back up 	stem	error in stem modification
+24	подбежать	подбеги	подбежи	V;IMP;2;SG	run up 	stem	error in stem modification
+47	измяться	изомнись	измяйся	V;IMP;2;SG	wrinkle 	stem	error in stem modification
+55	скорбеть	скорбим	скорбеем	V;PRS;1;PL	to grieve 	affix	error in affix application (suffix)
+29	стелить	стелем	стелим	V;PRS;1;PL	 to spread 	affix	error in affix application (suffix)
+32	гнить	гниём	гним	V;PRS;1;PL	 to rot 	affix	error in affix application (suffix/ending)
+14	плестись	плетутся	плесутся	V;PRS;3;PL	trail (imperf.) 	stem	error in stem modification
+3	гнить	гниёт	гнит	V;PRS;3;SG	 to rot 	affix	error in affix application (suffix/ending)
+60	поплестись	поплёлся	поплесся	V;PST;SG;MASC	trail (perf.) 	stem	error in stem modification
